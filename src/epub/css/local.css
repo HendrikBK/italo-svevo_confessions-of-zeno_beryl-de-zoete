@@ -27,3 +27,9 @@
 blockquote[xml|lang]{
 	font-style: italic;
 }
+
+/* Footer */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
