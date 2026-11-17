@@ -42,3 +42,8 @@ footer{
 #psychoanalysis header{
 	text-align: right;
 }
+
+/* Ordered in "The Story of My Marriage */
+#the-story-of-my-marriage ol li + li{
+	margin-top: .5em;
+}
