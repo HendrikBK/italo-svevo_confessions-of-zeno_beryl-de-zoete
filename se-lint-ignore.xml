@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="preface.xhtml">
+		<ignore code="s-036">
+			<line>9</line>
+			<reason>The preface is actually part of the bodymatter.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
