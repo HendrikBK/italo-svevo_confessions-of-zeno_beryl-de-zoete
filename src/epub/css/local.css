@@ -35,11 +35,8 @@ footer{
 }
 
 /* Diary entries in "Psychoanalysis" */
-[epub|type~="se:diary.dateline"]{
+p[epub|type~="se:diary.dateline"]{
 	font-style: italic;
-}
-
-#psychoanalysis header{
 	text-align: right;
 }
 
